@@ -1,0 +1,16 @@
+{
+    "response": [
+        {
+            "grade_code": 1,
+            "grade_display_name": "A",
+            "grade_entry_mode": "marks"
+        },
+        {
+            "grade_code": 2,
+            "grade_display_name": "B",
+            "grade_entry_mode": "grades"
+        }
+    ],
+    "error": "",
+    "warning": ""
+}
